@@ -2,6 +2,8 @@
 This repo contains the source code for our Introduction to Kotlin tutorial. Find the tutorial here :
 http://muva.co.ke/blog/android-development-introduction-using-kotlin/
 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+
 # Introduction
 Google has announced a new programming Language for Android, know as Kotlin. Kotlin is a statically-typed programming language that runs on the JVM. It can also be compiled to JavaScript source code.
 
